@@ -1,0 +1,9 @@
+{
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "files.exclude": {
+    "**/.pio/**": true,
+    "**/.vscode/**": true
+  },
+  "C_Cpp.codeAnalysis.clangTidy.args": ["--export-fixes=.fixes.txt", "--fix"],
+  "C_Cpp.codeAnalysis.clangTidy.config": ""
+}
