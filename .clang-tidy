@@ -1,7 +1,7 @@
 ---
 Checks: >
   *
-WarningsAsErrors: true
+WarningsAsErrors: "*"
 HeaderFilterRegex: ""
 AnalyzeTemporaryDtors: false
 FormatStyle: google
